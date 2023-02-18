@@ -7,8 +7,6 @@
 
 Python(pandas, numpy, seaborn, plotly, scipy), SQL, Git, Clickhouse, Redash, Gitlab, Apache Airflow, Tableau, Jupyter, Bash 
 
-<img src="https://ltdfoto.ru/image/iheK8n" title="js" width="40" height="40"/>&nbsp;
-
 ### About me
 
 Since May 2022 I've been studying data analytics. Earlier, I was engaged in data analysis in the field of transport logistics.
