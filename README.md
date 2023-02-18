@@ -3,7 +3,7 @@
 	<h3>Data analyst</h3>
 </div>
 
-[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg)" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 
 ### About me
 
