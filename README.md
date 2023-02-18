@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="gitlab" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="gitlab" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="gitlab" width="40" height="40"/>&nbsp;
-<img src="file:///C:/Users/User/Downloads/sql-database-generic-svgrepo-com.svg" title="gitlab" width="40" height="40"/>&nbsp;
+<img src="https://yandex.ru/images/search?from=tabbar&text=sql%20icon%20svg%20file&pos=35&img_url=http%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2F58a3826fd2b857e5fe09f025%2F1538604314089-3INZCW2TB1TP6MSOCCZ7%2Fsql.jpg%3Fcontent-type%3Dimage%252Fjpeg&rpt=simage&lr=970" title="gitlab" width="40" height="40"/>&nbsp;
 
 
 ### About me
