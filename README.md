@@ -5,7 +5,15 @@
 
 ### Languages and tools
 
-Python(pandas, numpy, seaborn, plotly, scipy), SQL, Git, Clickhouse, Redash, Gitlab, Apache Airflow, Tableau, Jupyter, Bash 
+- Python: pandas, numpy, seaborn, plotly, scipy;
+- SQL;
+- Git, gitlab;
+- Clickhouse;
+- Redash;
+- Apache Airflow;
+- Tableau;
+- Jupyter;
+- Bash. 
 
 ### About me
 
