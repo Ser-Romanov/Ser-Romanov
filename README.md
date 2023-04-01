@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi, I'm Sergei</h1>
-	<h3>Data analyst</h3>
+	<h3>Junior Data Analyst</h3>
 </div>
 
 ### Languages and tools
